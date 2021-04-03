@@ -1,0 +1,16 @@
+#imageDiv div {
+  text-align: center;
+  margin: 10px;
+  height: 350px;
+  display: inline-block;
+}
+
+#imageDiv div img {
+  height: 80%;
+}
+
+button {
+  position: fixed;
+  z-index: 4;
+}
+/*# sourceMappingURL=style.css.map */
